@@ -34,16 +34,3 @@ Both projects utilize fundamental C programming concepts including:
 
 These mini-projects are designed to demonstrate the use of basic C programming constructs. The **Shapes** project focuses on creating different geometrical shapes, while the **Contact Management System** offers basic functionalities for managing contacts, which are stored and manipulated through file handling.
 
-## How to Run
-
-1. Clone the repository to your local machine.
-2. Navigate to the desired project directory (`Shapes` or `ContactManagement`).
-3. Compile the C source files using a C compiler (e.g., GCC).
-4. Run the executable generated after compilation.
-
-```bash
-gcc shapes.c -o shapes
-./shapes
-
-gcc contact_management.c -o contact_management
-./contact_management
